@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./banner.gif" alt="Animated profile banner" width="100%">
+  <img src="./banner.gif" alt="Animated profile banner" width="90%">
 </p>
 
-<pre align="center">
+<pre align="left">
 ░░   ░░ ░░░   ░░░ ░░  ░░    ░░  ░░░░░░░░ ░░   ░░ ░░░   ░░░ ░░  ░░    ░░  ░░░░░░░░
  ▒▒ ▒▒   ▒▒   ▒▒  ▒▒  ▒▒  ▒▒▒▒       ▒▒   ▒▒ ▒▒   ▒▒   ▒▒  ▒▒  ▒▒  ▒▒▒▒       ▒▒
   ▓▓▓     ▓▓ ▓▓   ▓▓  ▓▓    ▓▓      ▓▓     ▓▓▓     ▓▓ ▓▓   ▓▓  ▓▓    ▓▓      ▓▓
