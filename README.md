@@ -1,3 +1,16 @@
 <p align="center">
-  <img src="./banner.gif" alt="Animated profile banner" width="720">
+  <img src="./banner.gif" alt="Animated profile banner" width="100%" height="120">
 </p>
+
+<pre align="center">
+██░  ▄▄▄ ▄░░      ░░▄ ░░▄
+█▒▒  ▓▒░ ▒▒▒  ▒░░ ▒▒  ▒▒
+▀▓▓▀▄▓▓▀ ▓▓▓  ▓▓▒ ▓▓  ▓▓
+███  ███ ███  ███ ██  ██
+▒▒▒  ▒▒▒  ▀▓█▄▒▀  ▒▒  ▒▒
+▓▓▓  ▓▓▓  ▄▓▄▀▓▄  ▓▓  ▓▓
+███  ███ ███  ███ ██  ██
+▄▓▓▄▀▓█▄ ▓▓▓  ▓▓█ ▓▓  ▓▓
+▓▓▓  ▒▒▒ ▒▒▒  ▓▓▒ ▒▒  ▒▒
+▒▒▒  ▀▀▀ ▀░░      ░░▀ ░░▀
+</pre>
