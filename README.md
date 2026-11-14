@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.gif" alt="Animated profile banner" width="100%" height="120">
+  <img src="./banner.gif" alt="Animated profile banner" width="100%">
 </p>
 
 <pre align="center">
